@@ -104,9 +104,9 @@ Tokom prevodjenja kompajler ukoliko naidje na kljucnu rec expect trazi u odgovar
 
 ## Prednosti i mane KMP
 Prednosti:
-- Impementirala aplikacija je 100% native za svaku platformu
-- Lako se integrise u vec postojeci kod ?
-- Lak za koriscenje ? zavisi od coveka
+- Impementirana aplikacija je 100% native za svaku platformu
+- Lako se integrise u vec postojeci kod 
+- Lak za koriscenje
 - UI se pise native za svaku od platformi pa je samim tim konzistentnta i prilagodjena platformi
 - Olaksano ispravljanje bagova i dodavanje funkcionalnosti
 
